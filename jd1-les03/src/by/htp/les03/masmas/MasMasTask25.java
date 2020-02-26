@@ -4,8 +4,7 @@ public class MasMasTask25 {
 
 	public static void main(String[] args) {
 
-		// 24. Дан линейный массив x x x x , , , , . Получить действительную квадратную
-		// матрицу порядка n:
+		// 25. Получить квадратную матрицу порядка n:
 
 		int n = 6;
 		int[][] mas = new int[n][n];
